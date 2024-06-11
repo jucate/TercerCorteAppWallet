@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libWallet", "libWallet\libWallet.csproj", "{F7590A25-A809-482C-A574-317B7517D38F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{B62A74D5-30CF-4F1A-A07E-669A98BDB977}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uTestWallet", "uTestWallet\uTestWallet.csproj", "{A893853F-77D1-4579-ACB1-DBB5693155CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWallet", "WebWallet\WebWallet.csproj", "{9F429E48-C969-49C5-A0AD-FD437266ADF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7590A25-A809-482C-A574-317B7517D38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7590A25-A809-482C-A574-317B7517D38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7590A25-A809-482C-A574-317B7517D38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7590A25-A809-482C-A574-317B7517D38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62A74D5-30CF-4F1A-A07E-669A98BDB977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A74D5-30CF-4F1A-A07E-669A98BDB977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A74D5-30CF-4F1A-A07E-669A98BDB977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A74D5-30CF-4F1A-A07E-669A98BDB977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A893853F-77D1-4579-ACB1-DBB5693155CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A893853F-77D1-4579-ACB1-DBB5693155CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A893853F-77D1-4579-ACB1-DBB5693155CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A893853F-77D1-4579-ACB1-DBB5693155CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F429E48-C969-49C5-A0AD-FD437266ADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F429E48-C969-49C5-A0AD-FD437266ADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F429E48-C969-49C5-A0AD-FD437266ADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F429E48-C969-49C5-A0AD-FD437266ADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD69A15-4FC5-4C4C-AE59-0F7D8568B07B}
+	EndGlobalSection
+EndGlobal
