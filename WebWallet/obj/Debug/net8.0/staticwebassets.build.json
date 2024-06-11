@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/uKto7ekzCtsDk56Aw6XnxawYkIOj4BBqG9tL6QYwI0=",
+  "Source": "WebWallet",
+  "BasePath": "_content/WebWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

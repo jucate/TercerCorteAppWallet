@@ -1,0 +1,5 @@
+@WebWallet_HostAddress = http://localhost:5051
+
+GET {{WebWallet_HostAddress}}/DashBoard/
+accept: application/json
+###
