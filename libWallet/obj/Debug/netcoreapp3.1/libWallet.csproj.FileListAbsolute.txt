@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\bin\Debug\netcoreapp3.1\libWallet.deps.json
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\bin\Debug\netcoreapp3.1\libWallet.dll
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\bin\Debug\netcoreapp3.1\libWallet.pdb
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.dll
+C:\Users\USUARIO\Desktop\Trabajo U\Software\appWallet\libWallet\obj\Debug\netcoreapp3.1\libWallet.pdb
